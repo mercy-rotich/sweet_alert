@@ -1,0 +1,19 @@
+.openmodal{
+    background: rgb(54, 54, 237);
+    color: white;
+    border: none;
+    
+}
+h2{
+   text-align: center;
+   
+}
+.mainbody{
+    
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
